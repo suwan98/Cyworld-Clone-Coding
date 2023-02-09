@@ -62,7 +62,8 @@
 .left-body-header-gray{
     width: 148px;
     height: 133px;
-    background-color: gray;
+    background-image: url(/cyworld/images/KakaoTalk_20230209_184019167.jpg);
+    background-size: cover;
 }
 .left-body-header-line{
     border-top: 1px dotted black;
